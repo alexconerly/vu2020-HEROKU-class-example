@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#stuff
+.vscode
+heroku_environment
+
 # C extensions
 *.so
 
