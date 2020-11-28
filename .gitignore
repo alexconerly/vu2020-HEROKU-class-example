@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 #stuff
+.vscode
 heroku_environment
 
 # C extensions
